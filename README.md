@@ -14,9 +14,11 @@ O sistema evita números repetidos e alerta o usuário em caso de inconsistênci
 
 ## 💻 Tecnologias usadas
 
-- HTML
-- CSS
-- JavaScript
+O projeto utiliza as seguintes tecnologias:
+
+- ✅ **JavaScript**
+- 🧩 **HTML** e **CSS** – já vieram prontos no curso da Alura e foram utilizados como base.
+
 
 ## 🧠 Funcionalidades
 
