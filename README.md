@@ -28,7 +28,9 @@ O sistema evita números repetidos e alerta o usuário em caso de inconsistênci
 ## 📸 Captura de Tela
 
 ![Imagem do Sorteador]
-![Uploading image.png…]()
+## 📸 Exemplo da interface
+(https://github.com/Alyhrvds/ssorteador-de-numeros/blob/main/sorteador.png?raw=true)
+
 
 
 ## 🚀 Como usar
