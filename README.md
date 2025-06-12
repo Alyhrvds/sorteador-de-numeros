@@ -1,8 +1,8 @@
-# Sorteador de Números 🎲
+# Sorteador de Números 
 
 Projeto desenvolvido durante o curso da [Alura](https://www.alura.com.br/) com o objetivo de praticar lógica de programação e manipulação do DOM em JavaScript.
 
-## 📌 Sobre
+##  Sobre
 
 Essa aplicação sorteia números aleatórios de acordo com os valores definidos pelo usuário:
 
@@ -12,15 +12,15 @@ Essa aplicação sorteia números aleatórios de acordo com os valores definidos
 
 O sistema evita números repetidos e alerta o usuário em caso de inconsistências no preenchimento.
 
-## 💻 Tecnologias usadas
+##  Tecnologias usadas
 
 O projeto utiliza as seguintes tecnologias:
 
-- ✅ **JavaScript**
-- 🧩 **HTML** e **CSS** – já vieram prontos no curso da Alura e foram utilizados como base.
+-  **JavaScript**
+-  **HTML** e **CSS** – já vieram prontos no curso da Alura e foram utilizados como base.
 
 
-## 🧠 Funcionalidades
+##  Funcionalidades
 
 - Geração de números aleatórios sem repetição.
 - Verificação de limites (ex: quantidade maior que o intervalo).
@@ -28,14 +28,14 @@ O projeto utiliza as seguintes tecnologias:
 - Estilo moderno com foco em usabilidade.
 
 
-## 📸 Captura de Tela
+##  Captura de Tela
 
 ![Imagem do Sorteador](https://github.com/Alyhrvds/sorteador-de-numeros/blob/main/sorteador.png?raw=true)
 
 
 
 
-## 🚀 Como usar
+##  Como usar
 
 1. Clone o repositório:
    ```bash
