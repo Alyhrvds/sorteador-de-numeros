@@ -27,7 +27,9 @@ O sistema evita números repetidos e alerta o usuário em caso de inconsistênci
 
 ## 📸 Captura de Tela
 
-![Imagem do Sorteador](b0037250-c19f-402a-a443-0ce25d2916bd.png)
+![Imagem do Sorteador]
+![Uploading image.png…]()
+
 
 ## 🚀 Como usar
 
