@@ -25,7 +25,6 @@ O sistema evita números repetidos e alerta o usuário em caso de inconsistênci
 - Botão de reinício que reseta os campos e resultado.
 - Estilo moderno com foco em usabilidade.
 
-## 📸 Captura de Tela
 
 ## 📸 Captura de Tela
 
