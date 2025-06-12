@@ -29,7 +29,7 @@ O sistema evita números repetidos e alerta o usuário em caso de inconsistênci
 
 ![Imagem do Sorteador]
 ## 📸 Exemplo da interface
-(https://github.com/Alyhrvds/ssorteador-de-numeros/blob/main/sorteador.png?raw=true)
+([https://github.com/Alyhrvds/ssorteador-de-numeros/blob/main/sorteador.png?raw=true](https://github.com/Alyhrvds/sorteador-de-numeros/blob/main/screenshot-1749737703367.png))
 
 
 
